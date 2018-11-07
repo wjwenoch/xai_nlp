@@ -15,3 +15,9 @@
 * [Google N-grams](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html): N-grams computed from Google OCR-ed Books. Beware the [pitfalls](https://www.wired.com/2015/10/pitfalls-of-studying-language-with-google-ngram/), e.g., the F-word disappered for a centry and revived in 1960s :) 
 * [Google Web 1t 5-gram](https://catalog.ldc.upenn.edu/LDC2006T13)
 * [COCA N-grams](https://www.ngrams.info/): N-grams derived from the biggest American English corpora, POS tags available.
+
+### Logic and tensors
+
+#### Logic reasoning via tensors
+* [Low-Dimensional Embeddings of Logic](http://www.aclweb.org/anthology/W14-2409)
+* [Vector logic](https://www.sciencedirect.com/science/article/pii/016501149290216Q)
