@@ -22,3 +22,4 @@
 * [Low-Dimensional Embeddings of Logic](http://www.aclweb.org/anthology/W14-2409)
 * [Vector logic](https://www.sciencedirect.com/science/article/pii/016501149290216Q)
 * [Seman- tic compositionality through recursive matrix- vector spaces](https://dl.acm.org/citation.cfm?id=2391084): any alternatives to recursive models for structural learning?
+* [A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network](http://www.aclweb.org/anthology/N18-2053): CNN-based embedding method
