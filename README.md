@@ -1,5 +1,9 @@
 # Explainable AI 
 
+## Latest Relevant Publications
+* [TED: Teaching AI to Explain its Decisions](https://arxiv.org/pdf/1811.04896.pdf) Accepted at AAAI 2019
+* [Entropic Variable Boosting for Explainability & Interpretability in Machine Learning](https://arxiv.org/pdf/1810.07924.pdf)
+
 ## Resources
 
 ### Causal-related Text Corpora
