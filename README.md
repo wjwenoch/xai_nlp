@@ -3,6 +3,7 @@
 ## Latest Relevant Publications
 * [TED: Teaching AI to Explain its Decisions](https://arxiv.org/pdf/1811.04896.pdf) Accepted at AAAI 2019
 * [Entropic Variable Boosting for Explainability & Interpretability in Machine Learning](https://arxiv.org/pdf/1810.07924.pdf)
+* [Why Is My Classifier Discriminatory?](https://arxiv.org/pdf/1805.12002.pdf) Data augumentation and bias elimination
 
 ### Opinions/Essays 
 * [The public expresses broad concerns about the fairness and acceptability of using computers for decision-making in situations with important real-world consequences, 2018.11.16](http://www.pewinternet.org/2018/11/16/public-attitudes-toward-computer-algorithms/)
