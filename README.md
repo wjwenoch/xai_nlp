@@ -4,6 +4,9 @@
 * [TED: Teaching AI to Explain its Decisions](https://arxiv.org/pdf/1811.04896.pdf) Accepted at AAAI 2019
 * [Entropic Variable Boosting for Explainability & Interpretability in Machine Learning](https://arxiv.org/pdf/1810.07924.pdf)
 
+### Opinions/Essays 
+* [The public expresses broad concerns about the fairness and acceptability of using computers for decision-making in situations with important real-world consequences, 2018.11.16](http://www.pewinternet.org/2018/11/16/public-attitudes-toward-computer-algorithms/)
+
 ## Resources
 
 ### Causal-related Text Corpora
