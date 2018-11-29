@@ -1,5 +1,13 @@
 # Explainable AI 
 
+## Word/Entity/Graph embeddings interpretability related publications
+### Word embeddings theory and understanding
+* [2017 word embeddings trends](http://ruder.io/word-embeddings-2017/index.html#fn40)
+* [Skip-Gram – Zipf + Uniform = Vector Additivity](http://www.aclweb.org/anthology/P17-1007)
+* [The strange geometry of skip-gram with negative sampling](https://www.aclweb.org/anthology/D17-1308)
+
+
+
 ## Latest Relevant Publications
 * [TED: Teaching AI to Explain its Decisions](https://arxiv.org/pdf/1811.04896.pdf) Accepted at AAAI 2019
 * [Entropic Variable Boosting for Explainability & Interpretability in Machine Learning](https://arxiv.org/pdf/1810.07924.pdf)
