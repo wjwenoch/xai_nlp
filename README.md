@@ -8,6 +8,10 @@
 ### Opinions/Essays 
 * [The public expresses broad concerns about the fairness and acceptability of using computers for decision-making in situations with important real-world consequences, 2018.11.16](http://www.pewinternet.org/2018/11/16/public-attitudes-toward-computer-algorithms/)
 
+### KR-based Approach towards xAI
+* [Towards a Formal Distributional Semantics: Simulating Logical Calculi with Tensors](http://www.aclweb.org/anthology/S13-1001)
+* [Low-Dimensional Embeddings of Logic](http://www.aclweb.org/anthology/W14-2409)
+
 ## Resources
 
 ### Causal-related Text Corpora
